@@ -2,6 +2,8 @@
 
 This package can control your gameobjects' visibility using timeline without stopping any behaviour update.
 
+![Main](https://github.com/ProjectBLUE-000/Unity_MeshRendererActivationTrack/blob/master/Assets/ProjectBlueSDK/Packages/MeshRendererActivationTrack/Thumbnails/Main.gif)
+
 # How to use
 
 ### Attach a script
