@@ -8,7 +8,7 @@ namespace ProjectBlue.MeshRendererActivationTimeline
     {
 
         [SerializeField]
-        List<MeshRenderer> targetMeshRenderers = new List<MeshRenderer>();
+        List<Renderer> targetMeshRenderers = new List<Renderer>();
 
         public bool Active { get; private set; } = true;
 
